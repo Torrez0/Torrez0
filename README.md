@@ -1,8 +1,9 @@
-<img align="right" alt="Vetor Storyset" height="380" src="https://github.com/Torrez0/readme-eu/assets/131430865/559328f2-7c97-4af5-9f8c-f9f824b9ace5">
+<img align="right" alt="Vetor Storyset" height="380" src="https://github.com/Torrez0/meu-readme/assets/131430865/589af504-3f98-4b55-8760-9f1d6339d221">
+
 
 <h1>
     <a href="https://github.com/Torrez0">
-     <img align="center" alt="Logo desenvolvedor do site flaticon" width="36px" src="https://github.com/Torrez0/readme-eu/assets/131430865/76208f31-5f83-46b8-83a0-aea644a98d66"></a>
+     <img align="center" alt="Logo desenvolvedor do site flaticon" width="36px" src="https://github.com/Torrez0/meu-readme/assets/131430865/d3e88811-91f2-4a10-9644-18bee70f2231"></a>
     <span>Alan Torres</span>
 </h1>
 
@@ -12,7 +13,7 @@
 
     
 <h3 align="left">Redes Sociais
- <img align="left" alt="Logo desenvolvedor do site flaticon" width="36px" src="https://github.com/Torrez0/readme-eu/assets/131430865/63c1aa28-dbe8-4a6b-9235-d690b3570d5d"></a>
+ <img align="left" alt="Logo internet do site flaticon" width="36px" src="https://github.com/Torrez0/meu-readme/assets/131430865/627742f2-bbfd-4c37-a153-735b54cfb9a2"></a>
 </h3>
 <br>
 
@@ -21,7 +22,7 @@
 
 
 <h3 align="left">Habilidades
-<img align="left" alt="Logo desenvolvedor do site flaticon" width="36px" src="https://github.com/Torrez0/readme-eu/assets/131430865/cc4fe549-5f8a-4dd0-be94-76315b54427d">
+<img align="left" alt="Logo ideia do site flaticon" width="36px" src="https://github.com/Torrez0/meu-readme/assets/131430865/f0bf2a92-a5fa-480e-9c54-0494b39986a8">
 </h3>
 
 <p align="justify"> 
@@ -34,10 +35,10 @@
 
 
 <div align="center">
-<img alt="Logo Java do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/readme-eu/assets/131430865/2c1cafa0-094b-4d0c-8ff2-cdf7d1894c05">
-<img alt="Logo MySQL do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/readme-eu/assets/131430865/89c8755b-f3f2-40ad-abe1-c26cd5420e0d">
-<img alt="Logo Telecomunicações do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/readme-eu/assets/131430865/89c8755b-f3f2-40ad-abe1-c26cd5420e0d">
-<img alt="Logo Kanban do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/readme-eu/assets/131430865/b5cf17ee-ae00-4a60-9bed-03004be86aec">
+<img alt="Logo Java do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/meu-readme/assets/131430865/1c94e335-d12f-4470-b905-b48f1768424a">
+<img alt="Logo MySQL do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/meu-readme/assets/131430865/9bd3d99f-0ebf-4be3-ba0e-283133c0a623">
+<img alt="Logo Telecomunicações do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/meu-readme/assets/131430865/819a0986-6493-48d6-a9ec-9746f9a75369">
+<img alt="Logo Kanban do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/meu-readme/assets/131430865/ad60e926-00a6-42b1-9c4a-5347fd0626f8">
     
 </div>
 
