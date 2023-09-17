@@ -47,7 +47,7 @@
 
 <details align="left">
     
-  <summary>Links usados</summary> 
+  <summary>Links utilizados</summary> 
  
   - Icones utilizados de <a href="https://www.flaticon.com/">Flaticon</a><br>
   - Imagens utilizadas de <a href="https://br.freepik.com/">Freepik</a>
