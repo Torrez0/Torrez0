@@ -37,8 +37,8 @@
 <div align="center">
 <img alt="Logo Java do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/meu-readme/assets/131430865/1c94e335-d12f-4470-b905-b48f1768424a">
 <img alt="Logo MySQL do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/meu-readme/assets/131430865/9bd3d99f-0ebf-4be3-ba0e-283133c0a623">
-<img alt="Logo Telecomunicações do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/meu-readme/assets/131430865/819a0986-6493-48d6-a9ec-9746f9a75369">
 <img alt="Logo Kanban do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/meu-readme/assets/131430865/ad60e926-00a6-42b1-9c4a-5347fd0626f8">
+<img alt="Logo Telecomunicações do site flaticon" width="80px" align="center" src="https://github.com/Torrez0/meu-readme/assets/131430865/a0eeb913-32af-44b2-ae2f-b7049e164955">
     
 </div>
 
