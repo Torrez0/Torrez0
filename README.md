@@ -17,7 +17,7 @@
 </h3>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-407BFF?style=for-the-badge&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/alan-torres-8a4676184/)                                                                                                                                               [![Instagram](https://img.shields.io/badge/Instagram-407BFF?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/alwntorres/)                                                                                                                                                        [![Discord](https://img.shields.io/badge/Discord-407BFF?style=for-the-badge&logo=Discord&logoColor=fff)](https://www.discord.com/in/alwntorres/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-407BFF?style=for-the-badge&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/alan-torres-8a4676184/)                                                                                                                                               [![Instagram](https://img.shields.io/badge/Instagram-407BFF?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/alwntorres/)                                       
 
 
 
