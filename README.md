@@ -7,7 +7,7 @@
     <span>Alan Torres</span>
 </h1>
 
-<p align="justify"> Olá, prazer! Me chamo Alan, tenho 21 anos. Moro em São Paulo - Brasil. Apaixonado por tecnologia e jogos, estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Senac. Atualmente sou estagiário no time de Serviços de Implantação do Atacado na Vivo, onde lido com rotinas desafiadoras relacionadas a projetos de Telecomunicações e realizo processos de automação na área. 😁
+<p align="justify"> Olá, prazer! Me chamo Alan, tenho 21 anos. Moro em São Paulo - Brasil. Apaixonado por tecnologia e jogos, estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Senac. Atualmente sou estagiário no time de Serviços de Implantação do Atacado na Vivo, onde lido com rotinas desafiadoras relacionadas a projetos de Telecomunicações, processos mapeando o AS-IS e construindo um TO-BE, realizo também processos de automação na área com ferramentas Low-Code, Python e análise de dados com BI. 😁
 <br>
 
 
